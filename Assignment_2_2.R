@@ -1,3 +1,5 @@
+
+# UCI Machine Learning Repository -- Iris Data Set, is also available directly, so using them instead of downloading.
 library(datasets)
 str(iris)
 summary(iris)
